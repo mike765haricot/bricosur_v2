@@ -1,0 +1,12 @@
+
+
+
+
+PROJET : BricoSûr v2 - Soutenance Technique
+AUTEUR : DAYAWA Germain Mike
+LOGICIEL : PHP / MySQL (Port 3307)
+
+LIEN DE LA PRÉSENTATION VIDÉO (12 minutes) :
+https://groupeesaip-my.sharepoint.com/:v:/g/personal/gdayawa_ir2027_esaip_org/IQDY7xTyDJSMTpOxYRiSPthmAf9cRpt_3ug31rs9NncCJBo?e=X6sfh3
+
+Note : Cette vidéo présente les interfaces extraordinaires de BricoSûr (Client, Mode Pro Stakyra, Admin), ainsi que les tests de sécurité réels contre les injections SQL et les failles XSS.
